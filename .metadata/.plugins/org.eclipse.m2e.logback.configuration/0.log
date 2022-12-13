@@ -3,3 +3,5 @@
 2022-12-10 07:21:33,126 [Worker-12: Auto share git projects] WARN  org.eclipse.jgit.util.FS_Win32 - null
 2022-12-12 07:06:33,257 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2022-12-12 07:06:36,691 [Worker-2: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2022-12-13 07:19:29,982 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-13 07:19:44,426 [Worker-3: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
