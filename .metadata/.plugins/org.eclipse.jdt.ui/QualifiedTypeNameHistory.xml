@@ -34,4 +34,8 @@
     <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
 </qualifiedTypeNameHistroy>
