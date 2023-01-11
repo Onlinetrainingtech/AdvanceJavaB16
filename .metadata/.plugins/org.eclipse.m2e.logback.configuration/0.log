@@ -41,3 +41,7 @@
 2023-01-06 07:03:28,076 [Worker-0: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
 2023-01-07 06:57:37,495 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2023-01-07 06:57:44,009 [Worker-5: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2023-01-10 06:17:48,451 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-10 06:18:26,716 [Worker-2: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2023-01-10 07:08:36,246 [Worker-32: Launching mavenrun-d790769a-c9a2-41bd-ac99-396f5d33955c] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ConveyLabOnline\AdvanceJavaB16
+2023-01-10 07:08:36,259 [Worker-32: Launching mavenrun-d790769a-c9a2-41bd-ac99-396f5d33955c] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=com.xyz.SpringMavenP1 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=com.xyz -DartifactId=SpringMavenP1 -DoutputDirectory=D:\ConveyLabOnline\AdvanceJavaB16 -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
